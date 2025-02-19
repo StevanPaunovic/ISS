@@ -1,0 +1,272 @@
+Analyse von Video: 3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: sword fighting (Label-ID: 345)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+sword fighting: 0.0880
+high kick: 0.0857
+extinguishing fire: 0.0801
+throwing axe: 0.0629
+contact juggling: 0.0499
+
+
+
+Analyse von Video: 3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: abseiling (Label-ID: 0)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+abseiling: 0.1063
+contact juggling: 0.0766
+extinguishing fire: 0.0665
+throwing axe: 0.0630
+high kick: 0.0539
+
+
+
+Analyse von Video: 3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: throwing axe (Label-ID: 356)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.1163
+extinguishing fire: 0.0914
+headbutting: 0.0779
+high kick: 0.0544
+sword fighting: 0.0509
+
+
+
+Analyse von Video: 3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: throwing axe (Label-ID: 356)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.1149
+high kick: 0.0866
+extinguishing fire: 0.0730
+sword fighting: 0.0708
+swing dancing: 0.0661
+
+
+
+Analyse von Video: 3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.2206
+abseiling: 0.0811
+extinguishing fire: 0.0781
+drop kicking: 0.0484
+throwing axe: 0.0474
+
+
+
+Analyse von Video: 3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.2254
+extinguishing fire: 0.1253
+drop kicking: 0.0768
+side kick: 0.0638
+abseiling: 0.0399
+
+
+
+Analyse von Video: 3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.1016
+extinguishing fire: 0.1004
+high kick: 0.0884
+swing dancing: 0.0566
+hugging: 0.0514
+
+
+
+Analyse von Video: 3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: throwing axe (Label-ID: 356)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.1371
+high kick: 0.1011
+extinguishing fire: 0.0925
+tai chi: 0.0816
+sword fighting: 0.0513
+
+
+
+Analyse von Video: 3nothing.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.1000
+abseiling: 0.0701
+side kick: 0.0605
+throwing axe: 0.0517
+parkour: 0.0507
+
+
+
+Analyse von Video: 3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.1765
+extinguishing fire: 0.1170
+drop kicking: 0.0751
+throwing axe: 0.0384
+abseiling: 0.0343
+
+
+
+Analyse von Video: 3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.0917
+swing dancing: 0.0739
+extinguishing fire: 0.0702
+tango dancing: 0.0691
+drop kicking: 0.0566
+
+
+
+Analyse von Video: short_3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: drop kicking (Label-ID: 105)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+drop kicking: 0.1786
+high kick: 0.1298
+headbutting: 0.0990
+dancing macarena: 0.0898
+robot dancing: 0.0754
+
+
+
+Analyse von Video: short_3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: finger snapping (Label-ID: 127)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+finger snapping: 0.2806
+headbutting: 0.1094
+robot dancing: 0.0531
+drop kicking: 0.0396
+air drumming: 0.0366
+
+
+
+Analyse von Video: short_3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: shaking hands (Label-ID: 288)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.4480
+rock scissors paper: 0.1106
+headbutting: 0.0852
+slapping: 0.0722
+drop kicking: 0.0443
+
+
+
+Analyse von Video: short_3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: shaking hands (Label-ID: 288)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.2437
+headbutting: 0.2276
+punching bag: 0.0430
+rock scissors paper: 0.0378
+slapping: 0.0349
+
+
+
+Analyse von Video: short_3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.7589
+side kick: 0.1840
+drop kicking: 0.0192
+singing: 0.0062
+swinging legs: 0.0040
+
+
+
+Analyse von Video: short_3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.7589
+side kick: 0.2236
+drop kicking: 0.0117
+punching bag: 0.0011
+swinging legs: 0.0008
+
+
+
+Analyse von Video: short_3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: headbutting (Label-ID: 150)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+headbutting: 0.2688
+hugging: 0.1704
+swing dancing: 0.1648
+tango dancing: 0.0806
+shaking hands: 0.0376
+
+
+
+Analyse von Video: short_3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: headbutting (Label-ID: 150)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+headbutting: 0.3896
+hugging: 0.0844
+bending back: 0.0481
+swing dancing: 0.0431
+tango dancing: 0.0320
+
+
+
+Analyse von Video: short_3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: headbutting (Label-ID: 150)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+headbutting: 0.2789
+drop kicking: 0.1126
+finger snapping: 0.0940
+swing dancing: 0.0626
+slapping: 0.0410
+
+
+
+Analyse von Video: short_3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: drop kicking (Label-ID: 105)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+drop kicking: 0.2300
+finger snapping: 0.1328
+headbutting: 0.0915
+high kick: 0.0841
+swing dancing: 0.0589
+
+

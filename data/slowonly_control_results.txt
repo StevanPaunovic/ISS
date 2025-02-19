@@ -1,0 +1,38 @@
+Analyse von Video: 1control.mp4
+----------------------------------------
+Vorhergesagte Klasse: cleaning windows (Label-ID: 65)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+cleaning windows: 0.1939
+riding unicycle: 0.0889
+side kick: 0.0672
+hitting baseball: 0.0457
+jumpstyle dancing: 0.0446
+
+
+
+Analyse von Video: 2control.mp4
+----------------------------------------
+Vorhergesagte Klasse: trimming trees (Label-ID: 366)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+trimming trees: 0.2173
+jogging: 0.1056
+disc golfing: 0.0749
+climbing tree: 0.0697
+mowing lawn: 0.0506
+
+
+
+Analyse von Video: 3control.mp4
+----------------------------------------
+Vorhergesagte Klasse: extinguishing fire (Label-ID: 121)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+extinguishing fire: 0.1765
+high kick: 0.0741
+singing: 0.0269
+throwing axe: 0.0250
+side kick: 0.0247
+
+

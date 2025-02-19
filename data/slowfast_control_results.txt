@@ -1,0 +1,38 @@
+Analyse von Video: 1control.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing trombone (Label-ID: 247)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing trombone: 0.0421
+riding unicycle: 0.0406
+throwing ball: 0.0366
+passing American football (not in game): 0.0281
+dribbling basketball: 0.0264
+
+
+
+Analyse von Video: 2control.mp4
+----------------------------------------
+Vorhergesagte Klasse: trimming trees (Label-ID: 366)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+trimming trees: 0.2412
+blowing leaves: 0.1750
+walking the dog: 0.0438
+riding unicycle: 0.0370
+archery: 0.0335
+
+
+
+Analyse von Video: 3control.mp4
+----------------------------------------
+Vorhergesagte Klasse: throwing axe (Label-ID: 356)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.0998
+cleaning gutters: 0.0976
+extinguishing fire: 0.0648
+passing American football (not in game): 0.0294
+archery: 0.0264
+
+

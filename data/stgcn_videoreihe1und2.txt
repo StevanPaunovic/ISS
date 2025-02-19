@@ -1,0 +1,816 @@
+Analyse von Video: 1boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.0813
+throwing ball: 0.0601
+passing American football (not in game): 0.0586
+high kick: 0.0538
+shooting basketball: 0.0449
+
+
+
+Analyse von Video: 1boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.2152
+throwing ball: 0.0615
+high kick: 0.0532
+dancing macarena: 0.0437
+squat: 0.0303
+
+
+
+Analyse von Video: 1handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.2305
+throwing ball: 0.1075
+squat: 0.0765
+shaking hands: 0.0432
+lunge: 0.0421
+
+
+
+Analyse von Video: 1handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.2683
+throwing ball: 0.0607
+playing bagpipes: 0.0471
+lunge: 0.0423
+squat: 0.0395
+
+
+
+Analyse von Video: 1highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.1438
+tai chi: 0.1334
+side kick: 0.1094
+squat: 0.0605
+lunge: 0.0534
+
+
+
+Analyse von Video: 1highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: pull ups (Label-ID: 255)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+pull ups: 0.0928
+squat: 0.0704
+lunge: 0.0677
+high kick: 0.0602
+side kick: 0.0443
+
+
+
+Analyse von Video: 1hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.1357
+pull ups: 0.0813
+playing bagpipes: 0.0772
+parkour: 0.0581
+high kick: 0.0456
+
+
+
+Analyse von Video: 1hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3704
+lunge: 0.0721
+squat: 0.0663
+throwing ball: 0.0644
+high kick: 0.0273
+
+
+
+Analyse von Video: 1nothing1.mp4
+----------------------------------------
+Vorhergesagte Klasse: pull ups (Label-ID: 255)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+pull ups: 0.1379
+tai chi: 0.1008
+abseiling: 0.0721
+cleaning windows: 0.0700
+squat: 0.0509
+
+
+
+Analyse von Video: 1slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.2105
+throwing ball: 0.0671
+lunge: 0.0497
+high kick: 0.0470
+playing basketball: 0.0401
+
+
+
+Analyse von Video: 1slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.1198
+squat: 0.0466
+busking: 0.0436
+throwing ball: 0.0418
+high kick: 0.0373
+
+
+
+Analyse von Video: 2boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.4368
+tai chi: 0.2683
+capoeira: 0.0451
+side kick: 0.0298
+playing cricket: 0.0270
+
+
+
+Analyse von Video: 2boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.9866
+dancing charleston: 0.0045
+playing badminton: 0.0016
+jumpstyle dancing: 0.0015
+playing cricket: 0.0011
+
+
+
+Analyse von Video: 2handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4686
+jumpstyle dancing: 0.3650
+capoeira: 0.0231
+playing cricket: 0.0203
+sword fighting: 0.0197
+
+
+
+Analyse von Video: 2handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3509
+jumpstyle dancing: 0.2636
+slacklining: 0.0376
+sword fighting: 0.0222
+parkour: 0.0208
+
+
+
+Analyse von Video: 2highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.4558
+tai chi: 0.3533
+side kick: 0.0231
+capoeira: 0.0217
+slacklining: 0.0210
+
+
+
+Analyse von Video: 2highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.4919
+tai chi: 0.2878
+side kick: 0.0560
+capoeira: 0.0539
+high kick: 0.0524
+
+
+
+Analyse von Video: 2hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4733
+jumpstyle dancing: 0.1853
+playing cricket: 0.0526
+capoeira: 0.0389
+side kick: 0.0282
+
+
+
+Analyse von Video: 2hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.5678
+jumpstyle dancing: 0.0807
+contact juggling: 0.0531
+playing cricket: 0.0357
+slacklining: 0.0254
+
+
+
+Analyse von Video: 2nothing1.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.5641
+slacklining: 0.0857
+parkour: 0.0561
+jogging: 0.0321
+blowing leaves: 0.0291
+
+
+
+Analyse von Video: 2slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3395
+jumpstyle dancing: 0.3036
+contact juggling: 0.0247
+slacklining: 0.0214
+sword fighting: 0.0179
+
+
+
+Analyse von Video: 2slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.5325
+tai chi: 0.2062
+playing cricket: 0.0279
+capoeira: 0.0199
+slacklining: 0.0162
+
+
+
+Analyse von Video: short_1boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: dancing macarena (Label-ID: 87)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+dancing macarena: 0.3384
+hugging: 0.0755
+slapping: 0.0544
+rock scissors paper: 0.0524
+high kick: 0.0418
+
+
+
+Analyse von Video: short_1boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.1255
+playing bagpipes: 0.0714
+jumpstyle dancing: 0.0684
+robot dancing: 0.0636
+high kick: 0.0580
+
+
+
+Analyse von Video: short_1handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: shaking hands (Label-ID: 288)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.4500
+tai chi: 0.1153
+rock scissors paper: 0.0693
+slapping: 0.0654
+punching person (boxing): 0.0614
+
+
+
+Analyse von Video: short_1handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: shaking hands (Label-ID: 288)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.9903
+rock scissors paper: 0.0042
+swing dancing: 0.0018
+sword fighting: 0.0012
+salsa dancing: 0.0011
+
+
+
+Analyse von Video: short_1highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: side kick (Label-ID: 302)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.5283
+stretching leg: 0.1708
+high kick: 0.1510
+swinging legs: 0.1372
+jumpstyle dancing: 0.0026
+
+
+
+Analyse von Video: short_1highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.4881
+side kick: 0.2957
+swinging legs: 0.1294
+stretching leg: 0.0665
+jumpstyle dancing: 0.0041
+
+
+
+Analyse von Video: short_1hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: hugging (Label-ID: 158)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.9034
+tango dancing: 0.0536
+carrying baby: 0.0372
+kissing: 0.0050
+tai chi: 0.0004
+
+
+
+Analyse von Video: short_1hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.9061
+hugging: 0.0897
+kissing: 0.0029
+carrying baby: 0.0008
+tai chi: 0.0003
+
+
+
+Analyse von Video: short_1slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tap dancing (Label-ID: 349)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tap dancing: 0.1361
+robot dancing: 0.0774
+dancing macarena: 0.0731
+shaking hands: 0.0572
+slapping: 0.0354
+
+
+
+Analyse von Video: short_1slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: hugging (Label-ID: 158)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.1615
+tai chi: 0.1152
+robot dancing: 0.1053
+dancing macarena: 0.0912
+shaking hands: 0.0707
+
+
+
+Analyse von Video: short_2boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.2468
+dancing charleston: 0.2320
+finger snapping: 0.1163
+tai chi: 0.1011
+dancing macarena: 0.0401
+
+
+
+Analyse von Video: short_2boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: finger snapping (Label-ID: 127)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+finger snapping: 0.2615
+jumpstyle dancing: 0.2376
+dancing charleston: 0.1728
+tai chi: 0.0670
+high kick: 0.0395
+
+
+
+Analyse von Video: short_2handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: shaking hands (Label-ID: 288)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.9606
+dancing charleston: 0.0115
+tai chi: 0.0108
+swing dancing: 0.0094
+rock scissors paper: 0.0052
+
+
+
+Analyse von Video: short_2handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: dancing charleston (Label-ID: 85)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+dancing charleston: 0.7955
+shaking hands: 0.1375
+swing dancing: 0.0295
+tai chi: 0.0192
+rock scissors paper: 0.0064
+
+
+
+Analyse von Video: short_2highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.8132
+side kick: 0.1865
+jumpstyle dancing: 0.0003
+swinging legs: 0.0000
+tai chi: 0.0000
+
+
+
+Analyse von Video: short_2highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.7394
+jumpstyle dancing: 0.1602
+side kick: 0.0678
+tai chi: 0.0275
+swinging legs: 0.0021
+
+
+
+Analyse von Video: short_2hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: hugging (Label-ID: 158)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.4806
+tango dancing: 0.1516
+carrying baby: 0.0929
+dancing charleston: 0.0617
+tai chi: 0.0477
+
+
+
+Analyse von Video: short_2hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: hugging (Label-ID: 158)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.6111
+tango dancing: 0.2356
+carrying baby: 0.1409
+kissing: 0.0111
+swing dancing: 0.0003
+
+
+
+Analyse von Video: short_2slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: finger snapping (Label-ID: 127)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+finger snapping: 0.2449
+shaking hands: 0.0878
+tai chi: 0.0772
+hugging: 0.0731
+slapping: 0.0554
+
+
+
+Analyse von Video: short_2slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tai chi (Label-ID: 346)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3790
+finger snapping: 0.2713
+robot dancing: 0.0535
+shaking hands: 0.0453
+dancing charleston: 0.0448
+
+
+
+Analyse von Video: 3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2497
+high kick: 0.1061
+air drumming: 0.0946
+spinning poi: 0.0812
+jumpstyle dancing: 0.0461
+
+
+
+Analyse von Video: 3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.4316
+spinning poi: 0.0891
+tai chi: 0.0523
+parkour: 0.0451
+sword fighting: 0.0384
+
+
+
+Analyse von Video: 3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2235
+air drumming: 0.1324
+high kick: 0.0844
+spinning poi: 0.0672
+jumpstyle dancing: 0.0615
+
+
+
+Analyse von Video: 3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.1792
+jumpstyle dancing: 0.1427
+spinning poi: 0.1040
+air drumming: 0.0980
+high kick: 0.0710
+
+
+
+Analyse von Video: 3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2643
+high kick: 0.0954
+beatboxing: 0.0627
+spinning poi: 0.0470
+juggling balls: 0.0451
+
+
+
+Analyse von Video: 3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2600
+high kick: 0.0788
+spinning poi: 0.0604
+drop kicking: 0.0463
+parkour: 0.0359
+
+
+
+Analyse von Video: 3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2359
+tango dancing: 0.0716
+spinning poi: 0.0714
+parkour: 0.0555
+high kick: 0.0541
+
+
+
+Analyse von Video: 3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2905
+jumpstyle dancing: 0.0803
+air drumming: 0.0750
+spinning poi: 0.0688
+parkour: 0.0659
+
+
+
+Analyse von Video: 3nothing.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.1895
+spinning poi: 0.1486
+parkour: 0.1445
+contact juggling: 0.0939
+air drumming: 0.0586
+
+
+
+Analyse von Video: 3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.3472
+spinning poi: 0.1147
+parkour: 0.1092
+juggling balls: 0.0695
+jumpstyle dancing: 0.0287
+
+
+
+Analyse von Video: 3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2602
+spinning poi: 0.1283
+air drumming: 0.0870
+juggling balls: 0.0477
+beatboxing: 0.0385
+
+
+
+Analyse von Video: short_3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.4161
+tai chi: 0.0996
+high kick: 0.0836
+hugging: 0.0406
+playing harmonica: 0.0396
+
+
+
+Analyse von Video: short_3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.1751
+drop kicking: 0.1352
+hugging: 0.0844
+slapping: 0.0541
+tai chi: 0.0531
+
+
+
+Analyse von Video: short_3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.2746
+shaking hands: 0.2476
+tai chi: 0.1329
+swing dancing: 0.0724
+robot dancing: 0.0265
+
+
+
+Analyse von Video: short_3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: robot dancing (Label-ID: 277)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+robot dancing: 0.1278
+air drumming: 0.1195
+singing: 0.1148
+slapping: 0.0797
+punching bag: 0.0494
+
+
+
+Analyse von Video: short_3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing harmonica (Label-ID: 233)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing harmonica: 0.7991
+high kick: 0.0854
+singing: 0.0242
+playing trumpet: 0.0117
+playing didgeridoo: 0.0114
+
+
+
+Analyse von Video: short_3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.2203
+tango dancing: 0.1957
+headbutting: 0.0983
+slapping: 0.0749
+air drumming: 0.0443
+
+
+
+Analyse von Video: short_3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.5394
+playing trumpet: 0.1221
+playing harmonica: 0.0925
+singing: 0.0468
+playing saxophone: 0.0468
+
+
+
+Analyse von Video: short_3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing harmonica (Label-ID: 233)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing harmonica: 0.3003
+playing trumpet: 0.1144
+tango dancing: 0.0526
+archery: 0.0510
+playing flute: 0.0481
+
+
+
+Analyse von Video: short_3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: singing (Label-ID: 304)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+singing: 0.1277
+slapping: 0.1086
+playing saxophone: 0.0779
+robot dancing: 0.0683
+drop kicking: 0.0589
+
+
+
+Analyse von Video: short_3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: slapping (Label-ID: 314)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+slapping: 0.1303
+playing harmonica: 0.1068
+singing: 0.1035
+tango dancing: 0.0608
+air drumming: 0.0416

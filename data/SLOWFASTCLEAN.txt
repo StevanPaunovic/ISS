@@ -1,0 +1,592 @@
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+rock scissors paper: 0.1130
+shaking hands: 0.0609
+slapping: 0.0472
+drop kicking: 0.0353
+throwing ball: 0.0344
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+punching person (boxing): 0.1168
+shaking hands: 0.0850
+slapping: 0.0680
+side kick: 0.0590
+rock scissors paper: 0.0535
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.5022
+swing dancing: 0.0399
+sword fighting: 0.0250
+headbutting: 0.0216
+slapping: 0.0148
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing bagpipes: 0.0376
+side kick: 0.0306
+playing trombone: 0.0290
+slapping: 0.0278
+headbutting: 0.0265
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.2430
+high kick: 0.1226
+jumpstyle dancing: 0.0558
+tap dancing: 0.0181
+drop kicking: 0.0164
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.2545
+high kick: 0.0718
+jumpstyle dancing: 0.0353
+drop kicking: 0.0278
+training dog: 0.0251
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.0560
+hugging: 0.0453
+passing American football (not in game): 0.0348
+training dog: 0.0309
+tai chi: 0.0293
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.1111
+hugging: 0.0602
+tai chi: 0.0561
+swing dancing: 0.0343
+headbutting: 0.0320
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing trombone: 0.0419
+throwing ball: 0.0378
+passing American football (not in game): 0.0370
+side kick: 0.0321
+shot put: 0.0218
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+slapping: 0.0710
+throwing axe: 0.0469
+jumpstyle dancing: 0.0451
+rock scissors paper: 0.0410
+robot dancing: 0.0401
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.0642
+jumpstyle dancing: 0.0507
+hopscotch: 0.0406
+slapping: 0.0389
+dancing macarena: 0.0281
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.6310
+throwing axe: 0.0922
+contact juggling: 0.0321
+trimming trees: 0.0293
+disc golfing: 0.0197
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.6990
+shaking hands: 0.1093
+throwing axe: 0.0670
+sword fighting: 0.0198
+hugging: 0.0159
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.6633
+shaking hands: 0.1132
+throwing axe: 0.0878
+disc golfing: 0.0148
+catching or throwing frisbee: 0.0087
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4593
+blowing leaves: 0.1098
+throwing axe: 0.0910
+shaking hands: 0.0683
+trimming trees: 0.0432
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4616
+side kick: 0.1802
+throwing axe: 0.1406
+high kick: 0.0702
+disc golfing: 0.0275
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4997
+side kick: 0.1725
+throwing axe: 0.1245
+high kick: 0.0565
+drop kicking: 0.0214
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.6434
+throwing axe: 0.0853
+archery: 0.0407
+trimming trees: 0.0361
+blowing leaves: 0.0174
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.4833
+hugging: 0.0796
+throwing axe: 0.0715
+trimming trees: 0.0639
+blowing leaves: 0.0251
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3533
+disc golfing: 0.1288
+jumpstyle dancing: 0.0965
+throwing axe: 0.0784
+trimming trees: 0.0451
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.6357
+throwing axe: 0.1537
+disc golfing: 0.0388
+hugging: 0.0180
+side kick: 0.0143
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.7128
+throwing axe: 0.1031
+disc golfing: 0.0197
+trimming trees: 0.0143
+jumpstyle dancing: 0.0112
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+punching person (boxing): 0.6365
+shaking hands: 0.1743
+clapping: 0.0351
+rock scissors paper: 0.0332
+tai chi: 0.0167
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.1324
+punching person (boxing): 0.1105
+slapping: 0.0736
+side kick: 0.0683
+tai chi: 0.0665
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.7602
+swing dancing: 0.0550
+headbutting: 0.0396
+hugging: 0.0367
+slapping: 0.0289
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.8806
+swing dancing: 0.1150
+dancing charleston: 0.0016
+sword fighting: 0.0007
+headbutting: 0.0006
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.7345
+high kick: 0.2195
+swinging legs: 0.0167
+dancing charleston: 0.0062
+jumpstyle dancing: 0.0043
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.6450
+high kick: 0.3542
+swinging legs: 0.0004
+drop kicking: 0.0003
+stretching leg: 0.0001
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.6409
+hugging: 0.0612
+tai chi: 0.0540
+swing dancing: 0.0526
+dancing charleston: 0.0196
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.3513
+tango dancing: 0.3006
+salsa dancing: 0.1477
+swing dancing: 0.0796
+kissing: 0.0650
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+kissing: 0.2120
+slapping: 0.1266
+robot dancing: 0.0952
+hugging: 0.0897
+jumpstyle dancing: 0.0572
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.2420
+slapping: 0.1117
+robot dancing: 0.0605
+riding unicycle: 0.0460
+jumpstyle dancing: 0.0396
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.3760
+playing harmonica: 0.2399
+singing: 0.0939
+whistling: 0.0217
+beatboxing: 0.0201
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.8057
+singing: 0.0309
+hugging: 0.0104
+contact juggling: 0.0079
+side kick: 0.0073
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.9556
+tai chi: 0.0391
+swing dancing: 0.0043
+dancing charleston: 0.0008
+salsa dancing: 0.0001
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.8846
+tai chi: 0.0766
+swing dancing: 0.0325
+dancing charleston: 0.0041
+salsa dancing: 0.0009
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.9195
+high kick: 0.0780
+drop kicking: 0.0016
+tai chi: 0.0008
+jumpstyle dancing: 0.0000
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.8754
+high kick: 0.1238
+tai chi: 0.0004
+drop kicking: 0.0003
+swinging legs: 0.0000
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.4127
+carrying baby: 0.1433
+tai chi: 0.1289
+golf chipping: 0.0987
+stretching arm: 0.0517
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+carrying baby: 0.5102
+hugging: 0.2656
+tai chi: 0.1200
+stretching arm: 0.0339
+playing bagpipes: 0.0101
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.7810
+gargling: 0.0399
+hugging: 0.0170
+massaging person's head: 0.0162
+kissing: 0.0137
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tai chi: 0.8881
+hugging: 0.0314
+stretching arm: 0.0100
+shaking hands: 0.0084
+kissing: 0.0066
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.4228
+cleaning gutters: 0.0389
+sword fighting: 0.0335
+cleaning windows: 0.0248
+archery: 0.0238
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.3702
+tai chi: 0.0463
+cleaning gutters: 0.0385
+abseiling: 0.0372
+unloading truck: 0.0269
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.3394
+sword fighting: 0.0589
+cleaning gutters: 0.0411
+headbutting: 0.0335
+shaking hands: 0.0308
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.3784
+sword fighting: 0.0608
+cleaning gutters: 0.0341
+headbutting: 0.0315
+drop kicking: 0.0307
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.2526
+cleaning gutters: 0.0661
+side kick: 0.0591
+drop kicking: 0.0519
+high kick: 0.0447
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.1864
+high kick: 0.0978
+drop kicking: 0.0927
+side kick: 0.0584
+cleaning gutters: 0.0401
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.2441
+cleaning gutters: 0.0492
+extinguishing fire: 0.0397
+unloading truck: 0.0352
+sword fighting: 0.0311
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.4455
+cleaning gutters: 0.0340
+cleaning windows: 0.0228
+sword fighting: 0.0207
+drop kicking: 0.0206
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.5754
+dunking basketball: 0.0247
+cleaning windows: 0.0230
+cleaning gutters: 0.0207
+abseiling: 0.0188
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.2651
+cleaning gutters: 0.0731
+drop kicking: 0.0487
+high kick: 0.0303
+cleaning windows: 0.0303
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.2902
+cleaning gutters: 0.0496
+drop kicking: 0.0474
+high kick: 0.0404
+hugging: 0.0352
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+throwing axe: 0.3483
+contact juggling: 0.0964
+robot dancing: 0.0532
+sword fighting: 0.0478
+headbutting: 0.0400
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+robot dancing: 0.1498
+drop kicking: 0.1119
+contact juggling: 0.0874
+tai chi: 0.0600
+headbutting: 0.0511
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+shaking hands: 0.5088
+swing dancing: 0.3555
+headbutting: 0.0402
+sword fighting: 0.0290
+dancing charleston: 0.0193
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+swing dancing: 0.1577
+shaking hands: 0.1503
+headbutting: 0.0976
+punching bag: 0.0889
+slapping: 0.0544
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.2862
+side kick: 0.2495
+headbutting: 0.1655
+drop kicking: 0.1118
+slapping: 0.0424
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+side kick: 0.6729
+high kick: 0.2632
+drop kicking: 0.0625
+headbutting: 0.0010
+punching bag: 0.0001
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.1545
+headbutting: 0.1514
+throwing axe: 0.0802
+slapping: 0.0573
+drop kicking: 0.0411
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+hugging: 0.3009
+headbutting: 0.0854
+playing harmonica: 0.0547
+spinning poi: 0.0386
+robot dancing: 0.0353
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+headbutting: 0.2774
+throwing axe: 0.0944
+slapping: 0.0780
+finger snapping: 0.0372
+drop kicking: 0.0364
+
+
+
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+headbutting: 0.2685
+swing dancing: 0.1536
+punching bag: 0.0685
+slapping: 0.0640
+high kick: 0.0425
+

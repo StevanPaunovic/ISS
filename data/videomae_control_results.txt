@@ -1,0 +1,38 @@
+Analyse von Video: 1control.mp4
+----------------------------------------
+Vorhergesagte Klasse: cleaning windows (Label-ID: 65)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+cleaning windows: 0.1036
+riding unicycle: 0.0698
+jumpstyle dancing: 0.0445
+jogging: 0.0265
+parkour: 0.0245
+
+
+
+Analyse von Video: 2control.mp4
+----------------------------------------
+Vorhergesagte Klasse: trimming trees (Label-ID: 366)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+trimming trees: 0.0601
+climbing tree: 0.0539
+riding unicycle: 0.0448
+archery: 0.0409
+blowing leaves: 0.0359
+
+
+
+Analyse von Video: 3control.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing organ (Label-ID: 239)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing organ: 0.2012
+jumpstyle dancing: 0.1700
+playing piano: 0.0343
+archery: 0.0195
+playing trombone: 0.0172
+
+

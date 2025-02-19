@@ -1,0 +1,272 @@
+Analyse von Video: 3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2497
+high kick: 0.1061
+air drumming: 0.0946
+spinning poi: 0.0812
+jumpstyle dancing: 0.0461
+
+
+
+Analyse von Video: 3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.4316
+spinning poi: 0.0891
+tai chi: 0.0523
+parkour: 0.0451
+sword fighting: 0.0384
+
+
+
+Analyse von Video: 3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2235
+air drumming: 0.1324
+high kick: 0.0844
+spinning poi: 0.0672
+jumpstyle dancing: 0.0615
+
+
+
+Analyse von Video: 3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.1792
+jumpstyle dancing: 0.1427
+spinning poi: 0.1040
+air drumming: 0.0980
+high kick: 0.0710
+
+
+
+Analyse von Video: 3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2643
+high kick: 0.0954
+beatboxing: 0.0627
+spinning poi: 0.0470
+juggling balls: 0.0451
+
+
+
+Analyse von Video: 3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2600
+high kick: 0.0788
+spinning poi: 0.0604
+drop kicking: 0.0463
+parkour: 0.0359
+
+
+
+Analyse von Video: 3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2359
+tango dancing: 0.0716
+spinning poi: 0.0714
+parkour: 0.0555
+high kick: 0.0541
+
+
+
+Analyse von Video: 3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2905
+jumpstyle dancing: 0.0803
+air drumming: 0.0750
+spinning poi: 0.0688
+parkour: 0.0659
+
+
+
+Analyse von Video: 3nothing.mp4
+----------------------------------------
+Vorhergesagte Klasse: jumpstyle dancing (Label-ID: 173)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+jumpstyle dancing: 0.1895
+spinning poi: 0.1486
+parkour: 0.1445
+contact juggling: 0.0939
+air drumming: 0.0586
+
+
+
+Analyse von Video: 3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.3472
+spinning poi: 0.1147
+parkour: 0.1092
+juggling balls: 0.0695
+jumpstyle dancing: 0.0287
+
+
+
+Analyse von Video: 3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: contact juggling (Label-ID: 69)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+contact juggling: 0.2602
+spinning poi: 0.1283
+air drumming: 0.0870
+juggling balls: 0.0477
+beatboxing: 0.0385
+
+
+
+Analyse von Video: short_3boxperson1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.4161
+tai chi: 0.0996
+high kick: 0.0836
+hugging: 0.0406
+playing harmonica: 0.0396
+
+
+
+Analyse von Video: short_3boxperson2.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.1751
+drop kicking: 0.1352
+hugging: 0.0844
+slapping: 0.0541
+tai chi: 0.0531
+
+
+
+Analyse von Video: short_3handshake1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.2746
+shaking hands: 0.2476
+tai chi: 0.1329
+swing dancing: 0.0724
+robot dancing: 0.0265
+
+
+
+Analyse von Video: short_3handshake2.mp4
+----------------------------------------
+Vorhergesagte Klasse: robot dancing (Label-ID: 277)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+robot dancing: 0.1278
+air drumming: 0.1195
+singing: 0.1148
+slapping: 0.0797
+punching bag: 0.0494
+
+
+
+Analyse von Video: short_3highkick1.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing harmonica (Label-ID: 233)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing harmonica: 0.7991
+high kick: 0.0854
+singing: 0.0242
+playing trumpet: 0.0117
+playing didgeridoo: 0.0114
+
+
+
+Analyse von Video: short_3highkick2.mp4
+----------------------------------------
+Vorhergesagte Klasse: high kick (Label-ID: 152)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+high kick: 0.2203
+tango dancing: 0.1957
+headbutting: 0.0983
+slapping: 0.0749
+air drumming: 0.0443
+
+
+
+Analyse von Video: short_3hugging1.mp4
+----------------------------------------
+Vorhergesagte Klasse: tango dancing (Label-ID: 348)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+tango dancing: 0.5394
+playing trumpet: 0.1221
+playing harmonica: 0.0925
+singing: 0.0468
+playing saxophone: 0.0468
+
+
+
+Analyse von Video: short_3hugging2.mp4
+----------------------------------------
+Vorhergesagte Klasse: playing harmonica (Label-ID: 233)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+playing harmonica: 0.3003
+playing trumpet: 0.1144
+tango dancing: 0.0526
+archery: 0.0510
+playing flute: 0.0481
+
+
+
+Analyse von Video: short_3slap1.mp4
+----------------------------------------
+Vorhergesagte Klasse: singing (Label-ID: 304)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+singing: 0.1277
+slapping: 0.1086
+playing saxophone: 0.0779
+robot dancing: 0.0683
+drop kicking: 0.0589
+
+
+
+Analyse von Video: short_3slap2.mp4
+----------------------------------------
+Vorhergesagte Klasse: slapping (Label-ID: 314)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+slapping: 0.1303
+playing harmonica: 0.1068
+singing: 0.1035
+tango dancing: 0.0608
+air drumming: 0.0416
+
+

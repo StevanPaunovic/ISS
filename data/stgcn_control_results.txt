@@ -1,0 +1,38 @@
+Analyse von Video: 1control.mp4
+----------------------------------------
+Vorhergesagte Klasse: cleaning windows (Label-ID: 65)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+cleaning windows: 0.1814
+pull ups: 0.1377
+abseiling: 0.1036
+playing bagpipes: 0.0831
+parkour: 0.0436
+
+
+
+Analyse von Video: 2control.mp4
+----------------------------------------
+Vorhergesagte Klasse: slacklining (Label-ID: 313)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+slacklining: 0.2069
+climbing tree: 0.1497
+trimming trees: 0.1366
+blowing leaves: 0.1297
+parkour: 0.0508
+
+
+
+Analyse von Video: 3control.mp4
+----------------------------------------
+Vorhergesagte Klasse: parkour (Label-ID: 207)
+
+Top 5 Klassen mit Wahrscheinlichkeiten:
+parkour: 0.4349
+slacklining: 0.0959
+spinning poi: 0.0885
+contact juggling: 0.0721
+juggling balls: 0.0594
+
+
